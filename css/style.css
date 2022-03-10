@@ -45,7 +45,7 @@ body,
 p {
   font-family: 'Roboto', sans-serif;
   line-height: 26px;
-  font-size: 16px;
+  font-size: 22px;
   color: #888888;
   padding-left: 5px ;
   padding-right: 5px; }
@@ -339,27 +339,11 @@ img.pull-right {
   padding-bottom: 30px;
   margin-bottom: 85px;
   text-align: center; }
-  /* .section-title:after,
-  .column-title:after {
-    position: absolute;
-    left: 0;
-    top: 0;
-    content: '';
-    right: 0;
-    background-image: url(../images/shap/title.png);
-    background-repeat: no-repeat;
-    background-size:  center;
-    background-position: contain;
-    width: 70px;
-    height: 10px;
-    margin: auto auto 0;
-    top: auto;
-    bottom: 0;
-   } */
+  
   .section-title span,
   .column-title span {
     display: block;
-    font-size: 14px;
+    font-size: 20px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     line-height: 26px;
